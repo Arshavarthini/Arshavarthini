@@ -61,6 +61,7 @@ order tracking, dashboards and internal tools. Feel free to reach out through Gi
 ## 📫 Connect
 
 - 🏫 Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India
+- 💼 LinkedIn: [linkedin.com/in/arsha-varthini-108574233](https://www.linkedin.com/in/arsha-varthini-108574233/)
 - 🤝 Open to research collaboration on post-quantum cryptography, quantum computing and secure AI systems
 
 ---
