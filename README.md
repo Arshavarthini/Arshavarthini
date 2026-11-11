@@ -50,7 +50,6 @@ including on resource-constrained hardware.
 | Project | What it is | Stack |
 |---|---|---|
 | [**Qiskit Single-Qubit Gates**](https://github.com/Arshavarthini/Qiskit_single_qubit_gates) | Exploring how single-qubit quantum gates transform qubit states | Python · Qiskit · Jupyter |
-| [**PQC Dataset**](https://github.com/Arshavarthini/Dataset) | Data resources for post-quantum cryptography research | — |
 | **FreshPress** *(private)* | Billing, orders and analytics website for laundry and ironing shops, synced to Google Sheets | HTML · CSS · JavaScript · Google Sheets |
 | **Muster** *(private)* | Employee management application prototype — directory, attendance, leave, payroll and performance with role-based access | HTML · CSS · JavaScript |
 
